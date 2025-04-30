@@ -1,4 +1,3 @@
-from app import lawyer
 
 euro = """<b>Офіційний чат-бот для порталу https://litigationfinanceportal.com
 

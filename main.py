@@ -10,7 +10,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.fsm.context import FSMContext
 from dibil import init_db, add_user, get_user
 from dibil import add_user
-
+import Procfile
 
 bot = Bot(token='7120184870:AAGj4MJH3Agf16KXvQvUoFG4JWcwNnfiOtE')  # Ініціалізуємо об'єкт бота з токеном
 dp = Dispatcher()  # Ініціалізуємо диспетчер для обробки подій (команд, повідомлень тощо)
